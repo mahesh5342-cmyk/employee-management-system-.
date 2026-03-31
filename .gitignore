@@ -1,0 +1,6 @@
+node_modules/
+employee-management-system/backend/node_modules/
+.DS_Store
+*.sqlite
+database.sqlite
+employee-management-system/backend/database.sqlite
